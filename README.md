@@ -1,13 +1,5 @@
-# Criando seu Ecossistema de Big Data na Nuvem
-
-## DESCRIÇÃO
-
-Com base no repositório disponibilizado pelo expert, te desafiamos a replicar e, porque não, melhorar o algoritmo de extração/contabilização de palavras. Para isso, você pode ordenar as palavras por ocorrência e não por ordem alfabética (apresentando as mais citadas no texto com prioridade), por exemplo. Sinta-se à vontade para evoluir o algoritmo de outras formas ;)
-
----
-
 # DIO-LiveCoding-AWS-BigData
-Repositório de cógido do Dio Live Coding com AWS EMR e Python
+Repositório de cógido do DIO Live Coding com AWS EMR e Python
 Neste repositório há os arquivos de configuração e execução de análise de dados.
 
 ## Instruções
