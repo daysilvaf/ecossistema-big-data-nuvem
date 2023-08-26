@@ -1,5 +1,4 @@
-# DIO-LiveCoding-AWS-BigData
-Repositório de cógido do DIO Live Coding com AWS EMR e Python
+Repositório de cógido do DIO Live Coding com AWS EMR e Python.
 Neste repositório há os arquivos de configuração e execução de análise de dados.
 
 ## Instruções
